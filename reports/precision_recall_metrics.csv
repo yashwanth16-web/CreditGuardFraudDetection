@@ -1,0 +1,7 @@
+model,average_precision
+Random Forest,0.8714948144135984
+XGBoost,0.853784196646203
+Logistic Regression,0.8393345925069458
+Linear SVM,0.6918361564886842
+Decision Tree,0.6091626002918741
+Isolation Forest,0.032426772646723154

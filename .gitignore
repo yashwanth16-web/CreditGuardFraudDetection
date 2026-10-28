@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Raw dataset — do not upload
+data/raw/
+
+# Temporary files
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+
+data/processed/train.csv
+# Exclude oversized original training CSV
+data/processed/train.csv
+
+# Local backup
+app.py.backup

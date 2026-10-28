@@ -1,0 +1,2 @@
+model,threshold_method,average_precision,roc_auc,precision,recall,f1_score,predicted_anomalies
+Isolation Forest,IsolationForest default,0.032426772646723154,0.9396464401240314,0.022384650525354044,0.875,0.04365256124721604,2189

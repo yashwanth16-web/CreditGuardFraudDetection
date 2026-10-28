@@ -1,0 +1,47 @@
+[
+  {
+    "Timestamp":"2026-10-28 23:55:24",
+    "Batch":"Latest scored transactions",
+    "Rows":284807,
+    "Feature columns":30,
+    "Missing cells":0,
+    "Infinite values":0,
+    "Flagged transactions":462,
+    "Flag rate":0.0016221511,
+    "Mean fraud probability":0.0020073261,
+    "High-drift features":4,
+    "Features needing review":3,
+    "Mean PSI":0.1783361061,
+    "Maximum PSI":3.1026271672
+  },
+  {
+    "Timestamp":"2026-10-28 23:55:28",
+    "Batch":"Latest scored transactions",
+    "Rows":284807,
+    "Feature columns":30,
+    "Missing cells":0,
+    "Infinite values":0,
+    "Flagged transactions":462,
+    "Flag rate":0.0016221511,
+    "Mean fraud probability":0.0020073261,
+    "High-drift features":4,
+    "Features needing review":3,
+    "Mean PSI":0.1783361061,
+    "Maximum PSI":3.1026271672
+  },
+  {
+    "Timestamp":"2026-10-29 00:17:52",
+    "Batch":"Latest scored transactions",
+    "Rows":284807,
+    "Feature columns":30,
+    "Missing cells":0,
+    "Infinite values":0,
+    "Flagged transactions":462,
+    "Flag rate":0.0016221511,
+    "Mean fraud probability":0.0020073261,
+    "High-drift features":4,
+    "Features needing review":3,
+    "Mean PSI":0.1783361061,
+    "Maximum PSI":3.1026271672
+  }
+]
